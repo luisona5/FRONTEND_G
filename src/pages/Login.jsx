@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { Link, useNavigate } from 'react-router';
-import useFetch from 'src/hooks/useFetch.js';
+import useFetch from '@/hooks/useFetch.js';
 import { ToastContainer } from 'react-toastify';
 
 
